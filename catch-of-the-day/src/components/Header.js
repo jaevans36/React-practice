@@ -6,7 +6,7 @@ class Header extends React.Component {
 			<header className="top">
 				<h1>Catch of the Day</h1>
 				<h3 className="tagline">
-					<span>Fresh Daily</span>
+					<span>Fresh Dailys</span>
 				</h3>
 			</header>
 		);
